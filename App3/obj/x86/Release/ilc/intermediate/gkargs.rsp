@@ -1,0 +1,7 @@
+﻿"C:\Users\Tolegen\source\repos\App3\App3\obj\x86\Release\ilc\in\App3.exe"
+/Lib:"C:\Users\Tolegen\source\repos\App3\App3\obj\x86\Release\ilc\in"
+/Lib:"C:\Users\Tolegen\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.3\tools\x86\ilc\lib\Private"
+/WinMD:"C:\Users\Tolegen\source\repos\App3\App3\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"d12a8813-21ef-47ed-82c3-69b5a9242569","Id":"a7eccd31-1d2d-48fb-b1ff-6e0d26251852","ProcessStartTime":637215241262329871}"
+/RdXmlPath:"C:\Users\Tolegen\.nuget\packages\microsoft.net.native.compiler\2.2.3\tools\LibraryXML"
+/RunOnlyPreDR
